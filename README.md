@@ -7,3 +7,4 @@
 
 ------------------------
 
+#### 전처리(MATLAB) - 학습(TensorFlow) - Freeze - Application(Android studio)
