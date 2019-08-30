@@ -31,10 +31,10 @@ Dataset Download 주소
 2. 1초가 체 안되는 음성의 경우) Zero Padding으로 강제적으로 1초짜리 음성 만들기 (차후 오류의 주 원인이 된더라구요,,,)
 
 #### 2D 이미지화
-MFCC를 사용하여 WAV 파일을 2D 이미지화 (MFCC = 40 사용)
+1. MFCC를 사용하여 WAV 파일을 2D 이미지화 (MFCC = 40 사용)
 
 #### CNN
-conv2d - Maxpooling - conv2d - Maxpooling - Flatten - Dense 로 이어지는 2층의 신경망 사용
+1. conv2d - Maxpooling - conv2d - Maxpooling - Flatten - Dense 로 이어지는 2층의 신경망 사용
 
 #### Freeze
 1. 학습된 모델을 안드로이드에 이식하기위해 가중치를 동결 시킴.
