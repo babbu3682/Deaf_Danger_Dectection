@@ -7,12 +7,12 @@
 
 ------------------------
 
-#### 전처리(MATLAB) - 학습(TensorFlow) - Freeze - Application(Android studio)
+#### 제작 방식 : 전처리(MATLAB) - 학습(TensorFlow) - Freeze - Application(Android studio)
 
 Dataset Download 주소
 [URBAN SOUND DATASETS](https://urbansounddataset.weebly.com/urbansound8k.html)
 
-##### class 종류 : 
+#### class 종류 : 
 * 0 = air_conditioner( 에어컨 소리 )
 * 1 = car_horn( 차 경적 소리 ) <- 해당 소리에 반응
 * 2 = children_playing( 아이들이 노는 소리 )
