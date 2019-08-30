@@ -19,7 +19,7 @@ Dataset Download 주소
 * 3 = dog_bark( 개가 짖는 소리 )
 * 4 = engine_idling( 자동차 엔진 소리 ) 
 * 5 = gun_shot( 총 소리 ) 
-* 6 = jackhammer( 착암기 소라 )
+* 6 = jackhammer( 착암기 소리 )
 * 7 = siren( 사이렌 소리 ) <- 해당 소리에 반응
 * 8 = speech( 사람 말소리 )
 * 9 = street_music( 길거리 음악 소리 )
