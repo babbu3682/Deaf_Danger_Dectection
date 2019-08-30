@@ -41,4 +41,3 @@ Dataset Download 주소
 1. Application 실행 시 핸드폰에 들어오는 소리(input data)는 0.2초 마다 thread가 돌아가며 받고 audio analysis를 진행하는 thread로 던짐
 2. 던져진 데이터를 분석하여 만약 결과가 1인 경적 소리나 8인 사이렌소리라면 Main thread에 전달하고 진동(output)이 울림
 
-![1](https://user-images.githubusercontent.com/48959435/64053386-1d291580-cbbd-11e9-814a-87ed3be56ed4.JPG)
