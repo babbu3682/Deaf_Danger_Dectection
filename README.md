@@ -8,3 +8,6 @@
 ------------------------
 
 #### 전처리(MATLAB) - 학습(TensorFlow) - Freeze - Application(Android studio)
+
+Dataset Download 주소
+[a link](https://urbansounddataset.weebly.com/urbansound8k.html)
