@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HearingHelper</string>
+
+    <string name="notice_permission">원활한 앱 사용을 위해 권한들을 수락 해주세요</string>
+    <string name="notice_cant_load_labels">Label들을 읽어올 수 없습니다</string>
+
+</resources>
