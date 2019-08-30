@@ -13,8 +13,8 @@ Dataset Download 주소
 [URBAN SOUND DATASETS](https://urbansounddataset.weebly.com/urbansound8k.html)
 
 ##### class 종류 : 
-*0 = air_conditioner( 에어컨 소리 )
-*1 = car_horn( 차 경적 소리 ) <- 해당 소리에 반응
+* 0 = air_conditioner( 에어컨 소리 )
+* 1 = car_horn( 차 경적 소리 ) <- 해당 소리에 반응
 *2 = children_playing( 아이들이 노는 소리 )
 *3 = dog_bark( 개가 짖는 소리 )
 *4 = drilling( 드릴을 사용하는 소리 )
