@@ -28,7 +28,7 @@ Dataset Download 주소
 
 #### 전처리(MATLAB) : 16KHz, 16Bit, 1초, Mono Channel Wav Data 필요 (안드로이드 Default 값)
 1. 1초가 넘어가는 음성의 경우) RMS -> Max Point -> 앞,뒤로 음성 자르기
-2. 1초가 체 안되는 음성의 경우) Zero Padding으로 강제적으로 1초짜리 음성 만들기 (차후 오류의 주 원인이 된더라구요,,,)
+2. 1초가 체 안되는 음성의 경우) Zero Padding으로 강제적으로 1초짜리 음성 만들기 (차후 오류의 주원인)
 
 #### 2D 이미지화
 1. MFCC를 사용하여 WAV 파일을 2D 이미지화 (MFCC = 40 사용)
