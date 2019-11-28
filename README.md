@@ -1,4 +1,4 @@
-# 제 1회 ICT COC콕 해커톤 대회 
+# 제 1회 ICT COC콕 해커톤 대회 최우수작
 
 # Deaf_Danger_Dectection
 ### 청각장애인을 위한 위험 인지 안내 어플리케이션
